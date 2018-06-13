@@ -1,0 +1,15 @@
+1;Dolaciński Dominik;Warszawa Górczewska 125;;;131.4
+2;Zielińska Iwona;Warszawa Batalionu Ak Karpaty 5a/2;2,;;74.9
+3;Józefowicz Grzegorz;Warszawa Batalionu Ak Karpaty 5a/2;10,2,5,7,4;;230.70000000000002
+4;Józefowicz Sylwester;Rybno Polna 9;7;;44.9
+5;Zielińska Dorota;Rybno Zajeziorna 13;;;25.0
+6;Rodak Arek;Warszawa Batalionu Ak Karpaty 5b/5;2;;23.0
+7;Winiarek Tomasz;Warszawa Myśliborska 10;;;19.9
+8;Maślanka Krzysztof;Warszawa Wesoła 10;;;39.8
+9;Wiertara Przemysław;Warszawa Prosta 59;4;;34.9
+10;Janicki Łukasz;Legionowo Zegrzyńska 19;;;39.8
+11;Russek Maciej;Laski Słoneczna 30;;;19.9
+12;Organek Jarosław;Zegrze Julianowska 10;;;25.0
+13;Nawałka Adam;Warszawa Długa 99;;;25.0
+14;Józefowicz Jolanta;Rybno Polna 9;;;0.0
+15;Kamil Grosicki;Warszawa Łazienkowska 5;;;0.0
